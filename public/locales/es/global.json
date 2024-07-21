@@ -1,4 +1,5 @@
 {
+  "address": "Dirección",
   "balance": "Balance",
   "noResult": "No hay resultados",
   "search": "Buscar",
@@ -6,5 +7,5 @@
   "from": "de",
   "to": "a",
   "transaction": "Transaction",
-  "address": "Dirección"
+  "transactions": "Transactions"
 }
